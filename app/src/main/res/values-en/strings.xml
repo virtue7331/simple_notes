@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_edit">Edit</string>
+    <string name="layer_add_text">Add</string>
+    <string name="name_field">Title</string>
+    <string name="description_field">Description</string>
+    <string name="field_button_close">Close</string>
+    <string name="field_button_confirm">Confirm</string>
+    <string name="blue_theme">Blue theme</string>
+    <string name="yellow_theme">Yellow theme</string>
+    <string name="green_theme">Green theme</string>
+    <string name="red_theme">Red theme</string>
+    <string name="settings_title">Settings</string>
+    <string name="language_label">Language</string>
+    <string name="language_russian">Russian</string>
+    <string name="language_english">English</string>
+    <string name="back">Back</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+</resources>

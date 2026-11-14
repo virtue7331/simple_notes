@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="button_delete">Удалить</string>
+    <string name="button_edit">Изменить</string>
+
+    <string name="layer_add_text">Добавить</string>
+    <string name="name_field">Заголовок</string>
+    <string name="description_field">Описание</string>
+
+    <string name="field_button_close">Закрыть</string>
+    <string name="field_button_confirm">Подтвердить</string>
+    <string name="blue_theme">Голубая тема</string>
+    <string name="yellow_theme">Жёлтая тема</string>
+    <string name="green_theme">Зелёная тема</string>
+    <string name="red_theme">Красная тема</string>
+</resources>
